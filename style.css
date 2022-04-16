@@ -1,0 +1,42 @@
+#label
+{
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+	font-size: x-large;
+}
+
+#indet
+{
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+	font-size: x-large;
+}
+
+#sketch_drawn
+{
+	color: rgb(0, 195, 255);
+	font-size: 30px;
+	font-family: 'Poppins', sans-serif;
+}
+
+#hii
+{
+	font-family: 'Whisper', cursive;
+}
+
+#opi
+{
+	font-family: 'Whisper', cursive;
+}
+
+#dev
+{
+	font-family: 'Shadows Into Light', cursive;
+	background-color:lime;
+	font-weight: bold;
+	font-style: oblique;
+	font-size: 18px;
+	text-align: center;
+	padding-bottom: 0px;
+	letter-spacing: 1px;
+}
